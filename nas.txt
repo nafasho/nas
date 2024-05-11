@@ -1,4 +1,4 @@
-# Logs nfs 
+# Logs nafas 
 logs nfs
 *.log
 npm-debug.log*
